@@ -137,14 +137,6 @@ This implementation demonstrates how ServiceNow can be used to:
 ### Business Service
 ![Business Service](screenshots/09-business-service.png)
 
-## What I Learned
-
-- How to structure CMDB records using CSDM-aligned layers
-- How application services depend on infrastructure CIs
-- How CI relationships support impact analysis
-- How Service Mapping improves service visibility
-- How automation can support CMDB data management
-
 ## Conclusion
 
 This project reflects a practical ServiceNow CMDB and Service Mapping implementation focused on architecture visibility, service dependency modeling, and operational support readiness.
